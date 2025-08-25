@@ -44,6 +44,7 @@ Develop a free, open-source AI writing assistant to enhance creative writing thr
 *   Frontend Integrates Basic AI.
 *   Public Alpha Release.
 *   AI Contribution Documentation.
+*   Managed Hosted Service Pilot Launch.
 
 ## 8. Success
 
@@ -52,6 +53,7 @@ Develop a free, open-source AI writing assistant to enhance creative writing thr
 *   User Engagement with AI Features.
 *   Application Stability.
 *   Potential for AI Contribution.
+*   Viable Monetization through Services.
 
 ## 9. Risks
 
@@ -59,12 +61,23 @@ Develop a free, open-source AI writing assistant to enhance creative writing thr
 
 ## 10. Budget
 
-To be discussed later.
+* **Initial Funding (Phase 1):** Focus on leveraging volunteer labor and free-tier cloud resources. Primary costs are minimal and will likely be out-of-pocket for development tools and small-scale testing.
+* **Future Funding (Phase 2 & beyond):** Budget will be funded by revenue from monetization strategies to cover:
+    * **Operational Costs:** Cloud hosting for the managed service, ongoing AI model maintenance, server monitoring.
+    * **Labor:** Potential stipends or salaries for core team members (Skiddle and Scarlet) for their development, support, and operational work.
+    * **Scalability:** Investment in additional computing resources (GPU clusters) as the user base and feature set grow.
+    * **Contingency:** A portion of revenue will be allocated to a contingency fund for unforeseen expenses.
+
 
 ## 11. Monetization
 
-To be discussed later.
+* **Model:** A hybrid approach focused on providing value-added services around the core free, open-source software.
+* **"Support as a Service":** Offering paid professional services to individuals and organizations who need dedicated, expert assistance.
+    * **Offerings:** Tiered technical support with guaranteed response times, consulting for custom integrations, specialized training, and troubleshooting.
+* **"Managed Hosted Service":** Providing a fully-managed, cloud-based version of Veridia as a Software as a Service (SaaS).
+    * **Offerings:** Subscription tiers based on user count, storage, AI usage limits, and access to advanced AI models. This platform would provide convenience, reliability, and additional features like cloud storage and potential collaboration.
+* **"Custom Features":** Offering paid development services to build specific features or integrations for clients, with a focus on contributing these enhancements back to the open-source project to benefit the entire community.
 
 ## 12. Conclusion
 
-Build a core application with integrated AI, focusing on leveraging existing open-source resources and fostering future community contributions.
+Build a core application with integrated AI, focusing on leveraging existing open-source resources. We will foster future community contributions and establish a sustainable funding model through a combination of support services and a managed hosted offering, which will allow us to continuously reinvest in the project.
